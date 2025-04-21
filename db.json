@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "Complete React project",
+      "username": "john_doe",
+      "date": "20230615",
+      "status": 0,
+      "task_type": "Office"
+    },
+    {
+      "id": "2",
+      "task": "Buy groceries",
+      "username": "jane_doe",
+      "date": "20230616",
+      "status": 1,
+      "task_type": "Personal"
+    },
+    {
+      "id": "f74d",
+      "task": "task for testing",
+      "username": "michel",
+      "date": "20202020",
+      "status": 0,
+      "task_type": "Personal"
+    },
+    {
+      "task": "test again",
+      "id": "0200"
+    },
+    {
+      "id": "1891",
+      "task": "one more",
+      "username": "mr xuz",
+      "date": "25122025",
+      "status": 1,
+      "task_type": "Personal"
+    }
+  ]
+}
